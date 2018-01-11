@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FtpInfo>
+    <SrcAddr>172.18.3.171</SrcAddr>
+    <SrcPort>21</SrcPort>
+    <SrcUser>cdr</SrcUser>
+    <SrcPsw>cdr</SrcPsw>
+    <SxcSrcCdrPath>/international/sxc/</SxcSrcCdrPath>
+    <BtsSrcCdrPath>/international/bts/</BtsSrcCdrPath>
+    <SmcSrcCdrPath>/international/smc/</SmcSrcCdrPath>
+	<DstAddr>172.18.3.111</DstAddr>
+	<DstPort>21</DstPort>
+	<DstUser>cdr</DstUser>
+    <DstPsw>cdr</DstPsw>
+	<SxcDstCdrPath>/international/sxc/</SxcDstCdrPath>
+    <BtsDstCdrPath>/international/bts/</BtsDstCdrPath>
+    <SmcDstCdrPath>/international/smc/</SmcDstCdrPath>
+</FtpInfo>
